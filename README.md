@@ -1,5 +1,7 @@
 # Architecting Google Cloud Solutions
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/f4db0f7c-354b-4794-a7ca-f88b911adae9.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/architecting-google-cloud-solutions?orgId=561911742905)  
+
 <a href="https://www.packtpub.com/product/Architecting-Google-Cloud-Solutions/9781800563308?utm_source=github&utm_medium=repository&utm_campaign=9781800563308"><img src="https://static.packt-cdn.com/products/9781800563308/cover/smaller" alt="Architecting Google Cloud Solutions" height="256px" align="right"></a>
 
 This is the code repository for [Architecting Google Cloud Solutions](https://www.packtpub.com/product/Architecting-Google-Cloud-Solutions/9781800563308?utm_source=github&utm_medium=repository&utm_campaign=9781800563308), published by Packt.
